@@ -24,6 +24,9 @@ These are the Groups for this class. Please group yourselves in teams of 3 or 4 
 * Courtney Richmond
 * Hannah Park
 * Parker Marschel
+  
+### Group 5 - 
+* Andres Sepulveda
 
 ### Group n - <GROUPNAME>
 * Student 1
