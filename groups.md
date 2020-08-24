@@ -48,7 +48,7 @@ These are the Groups for this class. Please group yourselves in teams of 3 or 4 
 * Daniel Rustrum
 * Ian Ambos
 * Student 3
-* Student 4
+* Andres Sepulveda
 
 ### Group 8 - <GROUPNAME>
 * Batai Finley
